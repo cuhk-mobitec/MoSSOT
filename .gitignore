@@ -1,0 +1,36 @@
+# normal ignored file
+*.pyc
+*~
+.idea
+.vscode
+.pylintrc
+debug
+
+# ignore config.json( may need it sometimes)
+config.json
+
+# ignore temp files
+appium.log
+appiumError.log
+*.apk
+lock.txt
+lock.txt.lock
+proxy/error.log
+proxyMissing.log
+ranked_user_para
+ranked_user_para+
+redundant.json
+report.csv
+request_para+
+request_para_category
+request_para_category+
+request_para_sub
+request_para_sub+
+response_para+
+result.txt
+state.json
+state_*
+tested.json
+uiaction.json
+user_para
+user_para+
