@@ -1,0 +1,11 @@
+.idea
+*.DS_STORE
+log
+*.pyc
+db
+template.json
+apk
+debug*
+*.vscode
+test
+.ipy*

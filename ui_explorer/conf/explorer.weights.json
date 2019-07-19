@@ -1,0 +1,20 @@
+{
+    "OVERALL_WEIGHTS": {
+        "text": 0.3, "desc": 0.2, "res_id": 0.2, "clickable": 0.1, "position": 0.1, "class": 0.1,  "hierarchy": 0.0
+    },
+    "KEYWORD_WEIGHTS": [
+        {"keywords": "{{IdP_KEYWORDS}}", "weight": 5},
+        {"keywords": "login|sign|登录|登陆|登錄", "weight": 0.9},
+        {"keywords": "我|个人|mine", "weight": 0.8},
+        {"keywords": "user|profile|帐户|账户|账号|帐号|avatar", "weight": 0.7},
+        {"keywords": "setting|menu|设置|菜单|drawer", "weight": 0.5},
+        {"keywords": "btn|button", "weight": 0.3}
+    ],
+    "CLASS_WEIGHTS": {
+        "Button": 1,
+        "ImageButton": 1,
+        "TextView": 0.8,
+        "ImageView": 0.7,
+        "LinearLayout": 0.3
+    }
+}
